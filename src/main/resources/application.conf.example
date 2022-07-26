@@ -1,0 +1,10 @@
+bot {
+    token = ""
+    guild-id = ""
+    player-stats-id = ""
+}
+
+api {
+    host = "http://localhost"
+    key = ""
+}
